@@ -1,0 +1,3 @@
+documentation from day 1 doc - https://docs.google.com/document/d/1NHx1aclGe7K7xlbw7yik-dmNAICAmfcVLR0RehaZgPM/edit?tab=t.0
+
+trial google colab 1 - https://colab.research.google.com/drive/1A1Qs_joSHTcSf67Zq02uJ5MMtW7i8215#scrollTo=XrYLgue9jiHN
