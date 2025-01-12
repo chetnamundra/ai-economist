@@ -7,7 +7,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 
-from ai_economist.foundation import landmarks, resources
+from foundation import landmarks, resources
 
 
 def plot_map(maps, locs, ax=None, cmap_order=None):
