@@ -4,7 +4,7 @@
 # For full license text, see the LICENSE file in the repo root
 # or https://opensource.org/licenses/BSD-3-Clause
 
-from ai_economist.foundation.base.base_agent import BaseAgent, agent_registry
+from foundation.base.base_agent import BaseAgent, agent_registry
 
 
 @agent_registry.add

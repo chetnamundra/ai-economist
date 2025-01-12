@@ -15,7 +15,7 @@ import random
 import warnings
 
 import numpy as np
-from ai_economist import foundation
+import foundation
 from gym import spaces
 from gym.utils import seeding
 from ray.rllib.env.multi_agent_env import MultiAgentEnv

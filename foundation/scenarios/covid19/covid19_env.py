@@ -11,8 +11,8 @@ from datetime import datetime, timedelta
 import GPUtil
 import numpy as np
 
-from ai_economist.foundation.base.base_env import BaseEnvironment, scenario_registry
-from ai_economist.foundation.utils import verify_activation_code
+from foundation.base.base_env import BaseEnvironment, scenario_registry
+from foundation.utils import verify_activation_code
 
 try:
     num_gpus_available = len(GPUtil.getAvailable())

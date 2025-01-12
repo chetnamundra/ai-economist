@@ -9,7 +9,7 @@ from datetime import datetime
 import GPUtil
 import numpy as np
 
-from ai_economist.foundation.base.base_component import (
+from foundation.base.base_component import (
     BaseComponent,
     component_registry,
 )

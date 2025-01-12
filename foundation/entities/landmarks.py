@@ -6,8 +6,8 @@
 
 import numpy as np
 
-from ai_economist.foundation.base.registrar import Registry
-from ai_economist.foundation.entities.resources import resource_registry
+from foundation.base.registrar import Registry
+from foundation.entities.resources import resource_registry
 
 
 class Landmark:

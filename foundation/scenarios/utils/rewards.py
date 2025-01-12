@@ -6,7 +6,7 @@
 
 import numpy as np
 
-from ai_economist.foundation.scenarios.utils import social_metrics
+from foundation.scenarios.utils import social_metrics
 
 
 def isoelastic_coin_minus_labor(

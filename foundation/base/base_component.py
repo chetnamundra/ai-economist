@@ -8,9 +8,9 @@ from abc import ABC, abstractmethod
 
 import numpy as np
 
-from ai_economist.foundation.agents import agent_registry
-from ai_economist.foundation.base.registrar import Registry
-from ai_economist.foundation.base.world import World
+from foundation.agents import agent_registry
+from foundation.base.registrar import Registry
+from foundation.base.world import World
 
 
 class BaseComponent(ABC):

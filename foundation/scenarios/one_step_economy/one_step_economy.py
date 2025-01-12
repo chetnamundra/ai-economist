@@ -6,8 +6,8 @@
 
 import numpy as np
 
-from ai_economist.foundation.base.base_env import BaseEnvironment, scenario_registry
-from ai_economist.foundation.scenarios.utils import rewards, social_metrics
+from foundation.base.base_env import BaseEnvironment, scenario_registry
+from foundation.scenarios.utils import rewards, social_metrics
 
 
 @scenario_registry.add

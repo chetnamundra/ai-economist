@@ -6,8 +6,8 @@
 
 import numpy as np
 
-from ai_economist.foundation.agents import agent_registry
-from ai_economist.foundation.entities import landmark_registry, resource_registry
+from foundation.agents import agent_registry
+from foundation.entities import landmark_registry, resource_registry
 
 
 class Maps:

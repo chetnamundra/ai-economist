@@ -6,11 +6,11 @@
 
 import numpy as np
 
-from ai_economist.foundation.base.base_component import (
+from foundation.base.base_component import (
     BaseComponent,
     component_registry,
 )
-from ai_economist.foundation.entities import resource_registry
+from foundation.entities import resource_registry
 
 
 @component_registry.add

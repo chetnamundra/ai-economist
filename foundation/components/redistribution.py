@@ -8,11 +8,11 @@ from copy import deepcopy
 
 import numpy as np
 
-from ai_economist.foundation.base.base_component import (
+from foundation.base.base_component import (
     BaseComponent,
     component_registry,
 )
-from ai_economist.foundation.components.utils import (
+from foundation.components.utils import (
     annealed_tax_limit,
     annealed_tax_mask,
 )

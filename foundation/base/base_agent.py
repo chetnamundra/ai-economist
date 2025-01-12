@@ -8,7 +8,7 @@ import random
 
 import numpy as np
 
-from ai_economist.foundation.base.registrar import Registry
+from foundation.base.registrar import Registry
 
 
 class BaseAgent:
